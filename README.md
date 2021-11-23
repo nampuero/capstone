@@ -2,6 +2,8 @@
 ### Mapping and Analyzing the Impact of Urban Agriculture in New York City
 #### Nico Ampuero, Jeremy Rucker, Xiaolin Li
 
+[Project website](https://ampu3ro.wixsite.com/mapnyc)
+
 ----
 
 #### Platform
